@@ -11,6 +11,7 @@ For data visualization https://github.com/go-echarts/go-echarts is used.
 
 
 installation:
+
 `https://github.com/Nisophix/frequencyAnalysis`
 
 `cd frequencyAnalysis`
