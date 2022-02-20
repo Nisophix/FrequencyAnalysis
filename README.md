@@ -8,3 +8,10 @@ This program will create an HTML document containing a graph with the occurence 
 ![image](https://user-images.githubusercontent.com/89792349/154843261-d536124a-95ee-456c-baf0-8c67faf5c758.png)
 
 For data visualization https://github.com/go-echarts/go-echarts is used.
+
+
+installation:
+> `https://github.com/Nisophix/frequencyAnalysis`
+>  `cd frequencyAnalysis`
+>  `go mod tidy`
+>  `go run FrequencyAnalysis.go`
