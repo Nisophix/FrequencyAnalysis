@@ -12,7 +12,7 @@ For data visualization https://github.com/go-echarts/go-echarts is used.
 
 installation:
 
-`https://github.com/Nisophix/frequencyAnalysis`
+`git clone https://github.com/Nisophix/FrequencyAnalysis`
 
 `cd frequencyAnalysis`
 
