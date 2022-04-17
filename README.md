@@ -14,7 +14,7 @@ installation:
 
 `git clone https://github.com/Nisophix/FrequencyAnalysis`
 
-`cd frequencyAnalysis`
+`cd FrequencyAnalysis`
 
 `go mod tidy`
 
