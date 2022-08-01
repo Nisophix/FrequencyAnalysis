@@ -18,4 +18,4 @@ For data visualization https://github.com/go-echarts/go-echarts is used.
 
 `go mod tidy`
 
-`go run FrequencyAnalysis.go`
+`go run frequencyAnalysis.go -h`
